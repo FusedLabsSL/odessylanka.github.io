@@ -333,7 +333,7 @@ small {
   color: lightgray;
 }
 .btn {
-  background-color: rgb(9, 119, 33);
+  background-color: rgb(3, 3, 3);
   /* padding: 1em 1.5em; */
   text-decoration: none;
   z-index: 10000;
@@ -411,7 +411,7 @@ small {
   font-size: 1rem;
   text-align: center;
   margin: 0;
-  padding-bottom: 0.3em;
+  padding-bottom: 0.6em;
 }
 .micons .icl i{
   font-size: 2rem;
@@ -426,6 +426,7 @@ small {
   font-size: 1rem;
   text-align: center;
   margin: 0;
+  padding-bottom: 0.6em;
 }
 .micons .icr i{
   font-size: 2rem;
@@ -767,6 +768,11 @@ a:hover {
 }
 .tp-price h1 span{
   font-family: 'Poppins', sans-serif;
+}
+.tp-price h1 .show2{
+  font-family: 'Poppins', sans-serif;
+  font-size: 2rem;
+  font-weight: 400;
 }
 /* accordian css end*/
 
