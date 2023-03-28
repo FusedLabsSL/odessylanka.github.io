@@ -370,9 +370,32 @@ small {
 .mleft1{
   width: 50%;
   height: 12em;
-  
   padding: 1em;
   background-image: url("https://www.steuartholidays.com/blog/wp-content/uploads/sites/9/2019/03/Dambulla-Sri-Lanka-1024x683.jpg");
+  background-size: 500px 320px;
+  background-repeat: no-repeat;
+}
+.mleft2{
+  width: 50%;
+  height: 12em;
+  padding: 1em;
+  background-image: url("https://th.bing.com/th/id/R.29ee1ecf4d91e266737af8e458ec40ca?rik=KrQ8IE1dHflIqA&riu=http%3a%2f%2fsri-lanka-and-beyond.com.au%2fwp-content%2fuploads%2f2018%2f01%2fBeach-Stays_shutterstock_562419673-2000x1334.jpg&ehk=1qH1%2bNAGM54qrphLoWcyyxOWHeLbWVxGNaXz%2bIq%2bg9c%3d&risl=&pid=ImgRaw&r=0");
+  background-size: 500px 320px;
+  background-repeat: no-repeat;
+}
+.mleft3{
+  width: 50%;
+  height: 12em;
+  padding: 1em;
+  background-image: url("https://www.bluelankatours.com/wp-content/uploads/2017/06/Wilpattu_National_Park.jpg");
+  background-size: 500px 320px;
+  background-repeat: no-repeat;
+}
+.mleft4{
+  width: 50%;
+  height: 12em;
+  padding: 1em;
+  background-image: url("https://thumbs.dreamstime.com/b/train-nine-arch-bridge-ella-sri-lanka-train-nine-arch-bridge-ella-sri-lanka-219337273.jpg");
   background-size: 500px 320px;
   background-repeat: no-repeat;
 }
