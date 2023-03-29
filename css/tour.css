@@ -851,18 +851,66 @@ a:hover {
 
 /* favourites */
 .favourites-section{
-  font-family: 'Bebas Neue', cursive;
-    font-size: 4rem;
-    padding-top: 0.6em;
     letter-spacing: 0.04em;
-    line-height: 1em;
     margin-bottom: 0;
-     margin-top: 0.8em;
-     text-align: center;
+    margin-top: 0.8em;
 }
+.favourites-section h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 6rem;
+    line-height: 1em;
+    text-align: center;
+    padding-top: 0.6em;
+}
+.fav-card{
+  height: 10em;
+  display: flex;
+  margin: 1em;
+  padding: 0.8em;
+  outline: 1px solid #000;
+}
+.fav-img{
+  width: 20%;
+  background-image: url("https://th.bing.com/th/id/R.29ee1ecf4d91e266737af8e458ec40ca?rik=KrQ8IE1dHflIqA&riu=http%3a%2f%2fsri-lanka-and-beyond.com.au%2fwp-content%2fuploads%2f2018%2f01%2fBeach-Stays_shutterstock_562419673-2000x1334.jpg&ehk=1qH1%2bNAGM54qrphLoWcyyxOWHeLbWVxGNaXz%2bIq%2bg9c%3d&risl=&pid=ImgRaw&r=0");
+  background-size: 500px 320px;
+  background-repeat: no-repeat;
+}
+.fav-desc{
+  width: 50%;
+  padding-left: 1em;
+}
+.fav-desc h3{
+  font-size: 2rem;
+  margin: 0;
 
-
-
+}
+.fav-desc p{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1rem;
+}
+.fav-info{
+  width: 30%;
+  padding: 0.5em;
+  padding-left: 1em;
+}
+.fav-info h4{
+  font-size: 2rem;
+  font-weight: 500;
+  margin: 0;
+}
+.fav-info h3{
+  font-size: 2rem;
+  font-weight: 600;
+  margin: 0;
+  margin-bottom: .5em;
+}
+.fav-info a{
+  background-color: #383838;
+  color: #fafafa;
+  padding: 0.8em;
+  margin-top: 1em;
+}
 
 
 
